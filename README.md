@@ -24,4 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0596-classes-with-at-least-5-students](https://github.com/Deepika45n/leetcode_solve/tree/master/0596-classes-with-at-least-5-students) |
 | [1075-project-employees-i](https://github.com/Deepika45n/leetcode_solve/tree/master/1075-project-employees-i) |
+## Two Pointers
+|  |
+| ------- |
+| [3794-reverse-string-prefix](https://github.com/Deepika45n/leetcode_solve/tree/master/3794-reverse-string-prefix) |
+## String
+|  |
+| ------- |
+| [3794-reverse-string-prefix](https://github.com/Deepika45n/leetcode_solve/tree/master/3794-reverse-string-prefix) |
 <!---LeetCode Topics End-->
