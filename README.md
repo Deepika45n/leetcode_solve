@@ -19,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Deepika45n/leetcode_solve/tree/master/1386-cinema-seat-allocation) |
+## Database
+|  |
+| ------- |
+| [0596-classes-with-at-least-5-students](https://github.com/Deepika45n/leetcode_solve/tree/master/0596-classes-with-at-least-5-students) |
 <!---LeetCode Topics End-->
