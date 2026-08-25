@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0596-classes-with-at-least-5-students](https://github.com/Deepika45n/leetcode_solve/tree/master/0596-classes-with-at-least-5-students) |
 | [1075-project-employees-i](https://github.com/Deepika45n/leetcode_solve/tree/master/1075-project-employees-i) |
+| [1084-sales-analysis-iii](https://github.com/Deepika45n/leetcode_solve/tree/master/1084-sales-analysis-iii) |
 ## Two Pointers
 |  |
 | ------- |
