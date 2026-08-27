@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1084-sales-analysis-iii](https://github.com/Deepika45n/leetcode_solve/tree/master/1084-sales-analysis-iii) |
 | [1179-reformat-department-table](https://github.com/Deepika45n/leetcode_solve/tree/master/1179-reformat-department-table) |
 | [1251-average-selling-price](https://github.com/Deepika45n/leetcode_solve/tree/master/1251-average-selling-price) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/Deepika45n/leetcode_solve/tree/master/1327-list-the-products-ordered-in-a-period) |
 ## Two Pointers
 |  |
 | ------- |
