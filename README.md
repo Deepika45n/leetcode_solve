@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Deepika45n/leetcode_solve/tree/master/1386-cinema-seat-allocation) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Deepika45n/leetcode_solve/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Deepika45n/leetcode_solve/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Deepika45n/leetcode_solve/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Deepika45n/leetcode_solve/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Math
+|  |
+| ------- |
+| [3875-construct-uniform-parity-array-i](https://github.com/Deepika45n/leetcode_solve/tree/master/3875-construct-uniform-parity-array-i) |
 <!---LeetCode Topics End-->
