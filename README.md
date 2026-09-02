@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Deepika45n/leetcode_solve/tree/master/0242-valid-anagram) |
 | [1386-cinema-seat-allocation](https://github.com/Deepika45n/leetcode_solve/tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Deepika45n/leetcode_solve/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Greedy
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Deepika45n/leetcode_solve/tree/master/0242-valid-anagram) |
 | [3794-reverse-string-prefix](https://github.com/Deepika45n/leetcode_solve/tree/master/3794-reverse-string-prefix) |
 ## Union-Find
 |  |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Deepika45n/leetcode_solve/tree/master/0242-valid-anagram) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Deepika45n/leetcode_solve/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Math
 |  |
