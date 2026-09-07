@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Deepika45n/leetcode_solve/tree/master/0215-kth-largest-element-in-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Deepika45n/leetcode_solve/tree/master/1386-cinema-seat-allocation) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Deepika45n/leetcode_solve/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Deepika45n/leetcode_solve/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Deepika45n/leetcode_solve/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Deepika45n/leetcode_solve/tree/master/0242-valid-anagram) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Deepika45n/leetcode_solve/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Math
@@ -61,4 +63,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/Deepika45n/leetcode_solve/tree/master/3903-smallest-stable-index-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Deepika45n/leetcode_solve/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Deepika45n/leetcode_solve/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Deepika45n/leetcode_solve/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
